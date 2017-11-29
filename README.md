@@ -1,0 +1,2 @@
+# replace-star-review-of-website-theme-with-new-Loox
+The shopify theme is using product review app as the default review app. Stars showed on the site is based on the old app. But now we changed to a new app called loox. It enables us and our customers to upload reviews with pictures, stars, and words. Only one problem is our original website cannot support the new star system. So this repository is going to record the process and the step of how we decode our old purchased theme and make our new app work on it.
