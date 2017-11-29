@@ -1,0 +1,6 @@
+This file will talk about how I did it to decode the old theme file and finally reach the goal we want.
+
+1. Locate the exact position of the "product review" app.
+	If this is a natural HTML file, it will be really easy to just inspect the website and find the same thing in our theme file. But this is on the shopify platform. They did not encrypted the code, but their liquid page code do the similar thing.
+
+	What we need to do is first decode the theme, get the whole theme structure clear. After that, we could finaly locate the app and make the modification.
